@@ -1,0 +1,43 @@
+nohup: ignorando entrada
+loading annotations into memory...
+Done (t=0.40s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.03s)
+creating index...
+index created!
+Epoch 001 | Train Loss: 0.6711 | Val Loss: 0.6634 | LR: 0.000100
+Epoch 002 | Train Loss: 0.6334 | Val Loss: 0.6344 | LR: 0.000100
+Epoch 003 | Train Loss: 0.6218 | Val Loss: 0.5316 | LR: 0.000100
+Epoch 004 | Train Loss: 0.6113 | Val Loss: 0.5171 | LR: 0.000100
+Epoch 005 | Train Loss: 0.6078 | Val Loss: 0.5492 | LR: 0.000100
+Epoch 006 | Train Loss: 0.6039 | Val Loss: 0.5402 | LR: 0.000100
+Epoch 007 | Train Loss: 0.5949 | Val Loss: 0.5509 | LR: 0.000100
+Epoch 008 | Train Loss: 0.5904 | Val Loss: 0.5217 | LR: 0.000050
+Epoch 009 | Train Loss: 0.5704 | Val Loss: 0.4815 | LR: 0.000050
+Epoch 010 | Train Loss: 0.5614 | Val Loss: 0.4773 | LR: 0.000050
+Epoch 011 | Train Loss: 0.5547 | Val Loss: 0.4890 | LR: 0.000050
+Epoch 012 | Train Loss: 0.5494 | Val Loss: 0.4753 | LR: 0.000050
+Epoch 013 | Train Loss: 0.5414 | Val Loss: 0.4506 | LR: 0.000050
+Epoch 014 | Train Loss: 0.5354 | Val Loss: 0.4665 | LR: 0.000050
+Epoch 015 | Train Loss: 0.5317 | Val Loss: 0.4784 | LR: 0.000050
+Epoch 016 | Train Loss: 0.5250 | Val Loss: 0.4555 | LR: 0.000050
+Epoch 017 | Train Loss: 0.5212 | Val Loss: 0.4445 | LR: 0.000050
+Epoch 018 | Train Loss: 0.5168 | Val Loss: 0.4539 | LR: 0.000050
+Epoch 019 | Train Loss: 0.5099 | Val Loss: 0.4404 | LR: 0.000050
+Epoch 020 | Train Loss: 0.5069 | Val Loss: 0.4346 | LR: 0.000050
+Epoch 021 | Train Loss: 0.5015 | Val Loss: 0.4482 | LR: 0.000050
+Epoch 022 | Train Loss: 0.4965 | Val Loss: 0.4454 | LR: 0.000050
+Epoch 023 | Train Loss: 0.4905 | Val Loss: 0.4425 | LR: 0.000050
+Epoch 024 | Train Loss: 0.4880 | Val Loss: 0.4263 | LR: 0.000050
+Epoch 025 | Train Loss: 0.4799 | Val Loss: 0.4367 | LR: 0.000050
+Epoch 026 | Train Loss: 0.4769 | Val Loss: 0.4315 | LR: 0.000050
+Epoch 027 | Train Loss: 0.4702 | Val Loss: 0.4402 | LR: 0.000050
+Epoch 028 | Train Loss: 0.4712 | Val Loss: 0.4324 | LR: 0.000025
+Epoch 029 | Train Loss: 0.4512 | Val Loss: 0.4279 | LR: 0.000025
+Epoch 030 | Train Loss: 0.4462 | Val Loss: 0.4284 | LR: 0.000025
+Epoch 031 | Train Loss: 0.4406 | Val Loss: 0.4319 | LR: 0.000025
+Epoch 032 | Train Loss: 0.4362 | Val Loss: 0.4288 | LR: 0.000013
+Early stopping na epoca 32 (sem melhora em 8 epochs).
+Treinamento concluído com AdamW.
