@@ -12,7 +12,7 @@ Configure um ambiente Conda com suporte a GPU e as principais bibliotecas usadas
 git clone git@github.com:Messyas/Deteccao-de-macroplasticos-igarapes.git
 cd Deteccao-de-macroplasticos-igarapes
 
-conda create -n plastico_detect python=3.9
+conda create -n plastico_detect python=3.11
 conda activate plastico_detect
 
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
