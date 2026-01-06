@@ -28,7 +28,7 @@ pip install opencv-python matplotlib pandas jupyterlab
 ## Datasets
 
 - **Treinamento:** dataset anotado do trabalho original (arXiv: [2401.14719](https://arxiv.org/abs/2401.14719)).
-- **Teste (Igarapés de Manaus):** conjunto não anotado para inferência e validação visual (Kaggle - Igarapés de Manaus).
+- **Teste (Igarapés de Manaus):** conjunto não anotado para inferência e validação visual (Kaggle[Igarapés de Manaus](https://www.kaggle.com/datasets/messyasgoisfrana/igarapes-de-manaus)).
 
 Estrutura sugerida para organizar os dados:
 
